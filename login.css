@@ -1,0 +1,16 @@
+.login{
+    text-align: center;
+    border: 3px solid black;
+    background-color: gainsboro;
+    width: 25%; 
+    height: 25%;
+    margin-left: 35%;
+    
+}
+.imgusuario{
+    margin-left: 548px;
+    width: 120px;
+}
+body{
+    background-color: goldenrod;
+}
